@@ -1,0 +1,8 @@
+# Build outputs
+todo-api
+*.exe
+
+# Local environment and editor files
+.env
+.idea/
+.vscode/
